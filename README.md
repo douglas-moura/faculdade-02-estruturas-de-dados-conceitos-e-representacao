@@ -1,1 +1,3 @@
-# faculdade-02-estruturas-de-dados-conceitos-e-representacao
+### Exercícios das aulas da Faculdade
+
+Disciplica: Estruturas de Dados: Conceitos e Representação - 2025.4
